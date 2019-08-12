@@ -1,0 +1,43 @@
+.bod{padding: 0;}
+.logo{padding-top: 0;margin-top: 0;position: sticky;}
+
+.navbar-default {
+    background-color: #008742;
+    /* border-color: #e7e7e7; */
+    
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    transition: .75s;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: azure;
+    background-color: red;
+}
+.slide
+{
+    min-height: 500px;background-image: url(aaaa.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar {
+     position: ; 
+     min-height: ; 
+     margin-bottom: 0; 
+ border: 0; 
+    border-radius: 0;
+}
+
+.section{
+    min-height: 300px;
+    
+}
+.seca{background-image: url(aaaa/Slide1.JPG); background-position: center;background-repeat: no-repeat;background-size: cover;transition:2s}
+.seca:hover{filter:opacity(0.5)}
+.secb{background-image: url(aaaa/Slide2.JPG); background-position: center;background-repeat: no-repeat;background-size: cover;transition:2s}
+.secb:hover{filter:opacity(0.5)}
+.secc{background-image: url(aaaa/Slide3.JPG); background-position: center;background-repeat: no-repeat;background-size: cover;transition:2s}
+.secc:hover{filter:opacity(0.5)}
+
+.uni{min-height:80px;background-color: lightseagreen;}
